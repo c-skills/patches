@@ -6,7 +6,7 @@ Inside this repo, you will find patches we made for some of our client projects 
 **Note: We might were only tasked to review certain corners of certain software and might not
 shed light to the entire source or other parts that may or may not be interesting. As such, the proposed
 patches may be incomplete, untested, broken or complete nonsense. If you happen to find working
-patches, it does not endorse or promote the project as being clean or fully audited by us or others.***
+patches, it does not endorse or promote the project as being clean or fully audited by us or others.**
 
 
 Inside this repo you will find patches for:
